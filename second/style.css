@@ -1,0 +1,30 @@
+* {
+	margin:0;
+	overflow: auto;
+}
+.left {
+	background-color: rgb(78, 146, 223);
+	float:left;
+	width:33%;
+	height:100vh;
+}
+
+.middle {
+	background-color: rgb(88, 226, 194);
+	width:33%;
+	height:100vh;
+	float: left;
+}
+
+.right {
+	background-color: rgb(185, 231, 139);
+	float:float;
+	width:33%;
+	height:80vh;
+}
+
+.red {
+	background-color: rgb(206, 11, 36); 
+	width:33%;
+	height:20vh;
+}
