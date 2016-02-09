@@ -1,0 +1,23 @@
+.container {
+	margin:10px;
+}
+.blue {
+	background-color: #4A90E2;
+	width: 100vw;
+	height: 25vh;
+}
+.aqua {
+	background-color: #50E3C2;
+	width: 100vw;
+	height: 25vh;
+}
+.green {
+	background-color: #B8E986;
+	width: 100vw;
+	height: 25vh;
+}
+.yellow {
+	background-color: #F8E71C;
+	width: 100vw;
+	height: 25vh;
+}
